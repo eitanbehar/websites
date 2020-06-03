@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName aikido_beersheva_net
+AuthUserFile /home/baconao/public_html/aikido_beersheva_net/_vti_pvt/service.pwd
+AuthGroupFile /home/baconao/public_html/aikido_beersheva_net/_vti_pvt/service.grp
