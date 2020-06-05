@@ -2713,6 +2713,12 @@
 
 		}
 
+/* Content */
+.content {
+	padding-left: 10px;
+	color: #000;
+}
+
 /* Header */
 
 	.subpage {
@@ -2742,7 +2748,7 @@
 
 		#header .inner {
 			margin: 0 auto;
-			position: relative;
+			position: left;
 		}
 
 		#header .logo {
