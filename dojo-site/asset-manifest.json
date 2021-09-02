@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c1c6e47.chunk.css",
+    "main.js": "/static/js/main.22abbac7.chunk.js",
+    "main.js.map": "/static/js/main.22abbac7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7f5e177c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7f5e177c.js.map",
+    "static/css/2.83b2d5d6.chunk.css": "/static/css/2.83b2d5d6.chunk.css",
+    "static/js/2.29faed3d.chunk.js": "/static/js/2.29faed3d.chunk.js",
+    "static/js/2.29faed3d.chunk.js.map": "/static/js/2.29faed3d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0688b4bd1d1425dcbbd079e5b507839.js": "/precache-manifest.e0688b4bd1d1425dcbbd079e5b507839.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.83b2d5d6.chunk.css.map": "/static/css/2.83b2d5d6.chunk.css.map",
+    "static/css/main.1c1c6e47.chunk.css.map": "/static/css/main.1c1c6e47.chunk.css.map",
+    "static/media/flag-icon.css": "/static/media/zw.8b885465.svg",
+    "static/media/fontawesome-all.min.css": "/static/media/fa-solid-900.bc595bb4.woff",
+    "static/media/untitled-0136.jpg": "/static/media/untitled-0136.244eb493.jpg",
+    "static/media/untitled-0155.jpg": "/static/media/untitled-0155.b5210c40.jpg",
+    "static/media/untitled-0171.jpg": "/static/media/untitled-0171.6e0b4e2a.jpg",
+    "static/media/untitled-0191.jpg": "/static/media/untitled-0191.933fa429.jpg",
+    "static/media/untitled-0216.jpg": "/static/media/untitled-0216.3a4eb4ac.jpg",
+    "static/media/untitled-0224.jpg": "/static/media/untitled-0224.7137a8bd.jpg",
+    "static/media/untitled-0515.jpg": "/static/media/untitled-0515.99711d23.jpg",
+    "static/media/untitled-0748.jpg": "/static/media/untitled-0748.18e6a6e5.jpg",
+    "static/media/untitled-0769.jpg": "/static/media/untitled-0769.f5a70ae6.jpg",
+    "static/media/untitled-1099.jpg": "/static/media/untitled-1099.e31fda22.jpg",
+    "static/media/untitled-1297.jpg": "/static/media/untitled-1297.9e5fc9f4.jpg",
+    "static/media/untitled-1309.jpg": "/static/media/untitled-1309.c9e2bd7f.jpg",
+    "static/media/untitled-9817.jpg": "/static/media/untitled-9817.dbf4ea0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f5e177c.js",
+    "static/css/2.83b2d5d6.chunk.css",
+    "static/js/2.29faed3d.chunk.js",
+    "static/css/main.1c1c6e47.chunk.css",
+    "static/js/main.22abbac7.chunk.js"
+  ]
+}
